@@ -1,21 +1,11 @@
 [![](https://raw.githubusercontent.com/fhoas/fhoas/main/profile.gif)](https://www.fhoas.dev/)
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 Welcome to my GitHub profile! I am `👨‍💻 Farid Mammadov`, a frontend developer from Baku, Azerbaijan. I develop `🌍 modern websites`. 
 
 > [!IMPORTANT]  
-> Employer? <a href="https://drive.google.com/file/d/1cC_rwQ2b6WkYBah4sKUPTuSSLQzXIZYi/view" download>Download the resume</a>!
+> Employer? <a href="https://drive.google.com/file/d/13c7utbLKTL2ZvyzHafEwpD4nOwQ3hpvA/view?usp=sharing" download>Download the resume</a>!
 
 ![](https://komarev.com/ghpvc/?username=fhoas)
-
-<h2 align="center">List of my skills</h2>
-
-### Soft :
-`Problem solving`, `Empathy`, `Adaptability`, `Team Working`, `Collaboration`, `Responsibility`
-
 
 ### Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,react,ts,html,css,scss,jquery,redux,bootstrap,tailwind,materialui,git,vite,npm,postman,vscode,figma,xd)](https://skillicons.dev)
@@ -110,34 +100,4 @@ Welcome to my GitHub profile! I am `👨‍💻 Farid Mammadov`, a frontend deve
 <h2 align="center">Contacts & Social media</h2>
 
 > [!IMPORTANT]
-> Please, add a topic before any of your message (e.g. Contribution or Job Offer) to make sure I don't miss it, thank you sooo much!
-
-<div align="center">
-    <a href="https://fhoas.dev">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/fhoas.dev-black?logo=googlegemini"></a>
-    &nbsp;
-      <a href="mailto:me@fhoas.dev">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/me%40fhoas.dev-black?logo=maildotru"></a>
-    &nbsp;
-    <a href="https://www.instagram.com/fhoas/">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/fhoas-4C75A3?logo=instagram"></a>
-    &nbsp;
-        <a href="https://behance.net/fhoas">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/fhoas-4C75A3?logo=behance"></a>
-    &nbsp;
-          <a href="https://www.linkedin.com/in/fhoas/">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/fhoas-4C75A3?logo=linkedin"></a>
-    &nbsp;
-          <a href="https://x.com/ffhoas">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/fhoas-4C75A3?logo=x"></a>
-    &nbsp;
-          <a href="https://soundcloud.com/fhoas">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/fhoas-4C75A3?logo=soundcloud"></a>
-    &nbsp;
-          <a href="https://www.youtube.com/@fhoas">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/fhoas-4C75A3?logo=youtube"></a>
-    &nbsp;
-      <a href="https://open.spotify.com/artist/78Ly67G0RWJJnIM41Cv4hF">
-        <img alt="Static Badge" src="https://shields-io.translate.goog/badge/fhoas-4C75A3?logo=spotify"></a>
-    &nbsp;
-</div>
+> faridmammadovwork@gmail.com

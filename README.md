@@ -1,5 +1,3 @@
-[![](https://raw.githubusercontent.com/fhoas/fhoas/main/profile.gif)](https://www.fhoas.dev/)
-
 Welcome to my GitHub profile! I am `👨‍💻 Farid Mammadov`, a frontend developer from Baku, Azerbaijan. I develop `🌍 modern websites`. 
 
 > [!IMPORTANT]  

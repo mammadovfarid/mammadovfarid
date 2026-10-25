@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I am `👨‍💻 Farid Mammadov`, a frontend developer from Baku, Azerbaijan. I develop `🌍 modern websites`. 
+Welcome to my GitHub profile! I am `👨‍💻 Farid Mammadov`, a software developer from Baku, Azerbaijan. I develop `🌍 modern websites`. 
 
 > [!IMPORTANT]  
 > Employer? <a href="https://drive.google.com/file/d/13c7utbLKTL2ZvyzHafEwpD4nOwQ3hpvA/view?usp=sharing" download>Download the resume</a>!

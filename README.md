@@ -1,14 +1,11 @@
-Welcome to my GitHub profile! I am `👨‍💻 Farid Mammadov`, a software developer from Baku, Azerbaijan. I develop `🌍 modern websites`. 
-
+Welcome to my GitHub profile! I am `👨‍💻 Farid Mammadov`, a software developer from Baku, Azerbaijan.
 > [!IMPORTANT]  
 > Employer? <a href="https://drive.google.com/file/d/13c7utbLKTL2ZvyzHafEwpD4nOwQ3hpvA/view?usp=sharing" download>Download the resume</a>!
 
 ![](https://komarev.com/ghpvc/?username=fhoas)
 
-### Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,html,css,scss,jquery,redux,bootstrap,tailwind,materialui,git,vite,npm,postman,vscode,figma,xd)](https://skillicons.dev)
 
-<h2 align="center">List of my projects</h2>
+<h2 align="center">Some of my projects</h2>
 
 > &nbsp;
 >
